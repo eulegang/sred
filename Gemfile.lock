@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    sred (0.1.0)
+    sred (0.0.0)
 
 GEM
   remote: https://rubygems.org/
